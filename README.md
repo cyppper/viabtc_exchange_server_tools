@@ -13,6 +13,6 @@ response = requests.post(ip_exchange, data=json.dumps(ex.balance.query), headers
 print(json.loads(response.text))
 ```
 
-Buy me a beer :3</br>
-</h2>BTC: 1Px3sRDEcdC6mmpx4FofyeYnUFvcpmdYhp</h2>
-</h2>LTC: LSNZkKq59oSHSHQmZMS4SncfMXoakePrKc</h2>
+Buy me a beer :3 </br>
+<h2>BTC: 1Px3sRDEcdC6mmpx4FofyeYnUFvcpmdYhp</h2>
+<h2>LTC: LSNZkKq59oSHSHQmZMS4SncfMXoakePrKc</h2>
