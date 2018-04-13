@@ -1,7 +1,7 @@
 #Tools for ViaBTC Exchange Server<
 <h2>Usage:</h2>
 API:
-```
+```python
 import api.api_exchange.py
 import requests, json
 
