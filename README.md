@@ -11,3 +11,7 @@ headers = {'content-type': 'application/json'}
 
 response = requests.post(ip_exchange, data=json.dumps(ex.balance.query), headers=headers)
 print(json.loads(response.text))
+```
+
+Buy me a beer :3
+</b>BTC: 1Px3sRDEcdC6mmpx4FofyeYnUFvcpmdYhp</b>
