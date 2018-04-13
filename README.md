@@ -16,3 +16,5 @@ print(json.loads(response.text))
 Buy me a beer :3 </br>
 <h2>BTC: 1Px3sRDEcdC6mmpx4FofyeYnUFvcpmdYhp</h2>
 <h2>LTC: LSNZkKq59oSHSHQmZMS4SncfMXoakePrKc</h2>
+<h2>BCC: 1ZjJsE2aGYZyGJDjsPmfWyPKcF6qGhiaU</h2>
+<h2>ETH (Only ETH, DONT SEND TOKENS): 0xabf2443445edc00e1c32a5b5f3c8479f51b9b4cb</h2>
